@@ -23,3 +23,22 @@ Créer un script Python capable d'organiser automatiquement les fichiers d'un do
 2. Lancer le script :
    ```bash
    python organizer.py
+3. Entrer le chemin du dossier à organiser
+
+4. Clique sur **Commit changes**
+
+---
+
+# 🟩 **ÉTAPE 4 — Tester ton script**
+
+Sur ton PC :
+
+1. Crée un dossier avec des fichiers mélangés (jpg, pdf, txt…)  
+2. Télécharge `organizer.py` depuis GitHub  
+3. Ouvre un terminal dans le dossier où se trouve le script  
+4. Lance :
+   ```bash
+   python organizer.py
+
+5. Donne le chemin du dossier à organiser  
+6. Regarde la magie opérer
